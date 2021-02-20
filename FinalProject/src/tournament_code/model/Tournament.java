@@ -1,8 +1,8 @@
-package id206059156_id313533341.model;
+package tournament_code.model;
 
 import java.util.ArrayList;
 
-import id206059156_id313533341.listeners.TournamentListenable;
+import tournament_code.listeners.TournamentListenable;
 
 public class Tournament {
 	private ArrayList<TournamentListenable> allListeners;

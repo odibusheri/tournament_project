@@ -1,4 +1,4 @@
-package id206059156_id313533341.view;
+package tournament_code.view;
 
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;

@@ -1,7 +1,7 @@
-package id206059156_id313533341.listeners;
+package tournament_code.listeners;
 
-import id206059156_id313533341.model.Game;
-import id206059156_id313533341.model.Participant;
+import tournament_code.model.Game;
+import tournament_code.model.Participant;
 
 public interface ViewListenable {
 	

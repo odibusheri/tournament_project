@@ -1,4 +1,4 @@
-package id206059156_id313533341.model;
+package tournament_code.model;
 
 import java.util.ArrayList;
 import java.util.Iterator;

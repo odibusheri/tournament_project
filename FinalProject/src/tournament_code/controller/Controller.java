@@ -1,13 +1,13 @@
-package id206059156_id313533341.controller;
+package tournament_code.controller;
 
 import java.util.ArrayList;
 
-import id206059156_id313533341.listeners.TournamentListenable;
-import id206059156_id313533341.listeners.ViewListenable;
-import id206059156_id313533341.model.Game;
-import id206059156_id313533341.model.Participant;
-import id206059156_id313533341.model.Tournament;
-import id206059156_id313533341.view.TournamentViewable;
+import tournament_code.listeners.TournamentListenable;
+import tournament_code.listeners.ViewListenable;
+import tournament_code.model.Game;
+import tournament_code.model.Participant;
+import tournament_code.model.Tournament;
+import tournament_code.view.TournamentViewable;
 
 public class Controller implements TournamentListenable, ViewListenable {
 	private Tournament tournament;

@@ -1,8 +1,8 @@
-package id206059156_id313533341.view;
+package tournament_code.view;
 
 import java.util.ArrayList;
 
-import id206059156_id313533341.listeners.ViewListenable;
+import tournament_code.listeners.ViewListenable;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.geometry.Insets;

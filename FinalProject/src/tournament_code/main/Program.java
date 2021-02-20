@@ -1,10 +1,9 @@
-//Odeia Busheri 206059156 and Eddie Rudoy 313533341
-package id206059156_id313533341.main;
+package tournament_code.main;
 
-import id206059156_id313533341.controller.Controller;
-import id206059156_id313533341.model.Participant;
-import id206059156_id313533341.model.Tournament;
-import id206059156_id313533341.view.MainView;
+import tournament_code.controller.Controller;
+import tournament_code.model.Participant;
+import tournament_code.model.Tournament;
+import tournament_code.view.MainView;
 import javafx.application.Application;
 import javafx.stage.Stage;
 

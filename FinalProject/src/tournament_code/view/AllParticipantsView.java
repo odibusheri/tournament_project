@@ -1,6 +1,6 @@
-package id206059156_id313533341.view;
+package tournament_code.view;
 
-import id206059156_id313533341.model.Participant;
+import tournament_code.model.Participant;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.control.TextField;
